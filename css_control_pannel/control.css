@@ -5,4 +5,23 @@ table{
     border-collapse: collapse;
 }
 .bold{
-    text-align: center;font-weight: bold;
+    text-align: center;font-weight: bold;}
+    .flex{
+        display:flex; list-style: none;
+     }   
+    *{
+        margin:3px;padding:6px;
+    }
+    .center{
+        text-align: center;
+    }
+    /* #left{
+        text-align: left;
+    } */
+    nav ul li a:hover{
+        background-color:rgb(124, 124, 243);
+    }
+    a{
+        text-decoration: none;
+    }
+ 
